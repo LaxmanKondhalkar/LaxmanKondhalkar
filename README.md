@@ -34,12 +34,14 @@ I'm a passionate React Native developer with a Bachelor's degree in Computer App
 - [Email](mailto:your-email@example.com)
 
 ## 🔗 Projects
-- [Project Name](link): Brief description of the project.
-- [Project Name](link): Brief description of the project.
+- [Pswdgen]([link](https://github.com/LaxmanKondhalkar/pswdgen)): PSWDGen is an Android app designed to help you generate strong,
+-  random passwords according to your preferences.
+-   Whether you need a simple password or a complex one with various character sets, PSWDGen has you covered.
+<!-- [Project Name](link): Brief description of the project. 
 
 ## 📝 Blog Posts
 - [Blog Post Title](link): Brief description of the blog post.
-- [Blog Post Title](link): Brief description of the blog post.
+- [Blog Post Title](link): Brief description of the blog post. -->
 
 ## 🤝 Let's Connect
 Feel free to reach out if you want to collaborate on a project, need help with React Native, or just want to chat about technology and AI.
