@@ -1,11 +1,48 @@
-<h1 align="center">Hi 👋, I'm laxman kondhalkar</h1>
-<h3 align="center">A passionate tech enthusiast. Who always want to stay updated with new technology and aspire to make a career in the IT industry.</h3>
+# Hi there, I'm Laxman Kondhalkar 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmankondhalkar&label=Profile%20views&color=0e75b6&style=flat" alt="laxmankondhalkar" /> </p>
+I'm a passionate React Native developer with a Bachelor's degree in Computer Applications (BCA). I specialize in JavaScript, TypeScript, and mobile app development. I'm also an AI enthusiast, constantly learning and exploring new technologies.
 
-<p align="left"> <a href="https://twitter.com/laxmank1995" target="blank"><img src="https://img.shields.io/twitter/follow/laxmank1995?logo=twitter&style=for-the-badge" alt="laxmank1995" /></a> </p>
+## 🛠 Skills
+- **Languages**: JavaScript, TypeScript
+- **Frameworks**: React Native
+- **Tools**: VS Code, Git, GitHub, Copilot, Codium
 
-- 🌱 I’m currently learning **JavaScript, bootstrap, tailwind CSS, Java, Linux and UI/UX for web and mobile.**
+## 📚 Education
+- **Bachelor's Degree in Computer Applications (BCA)**
+  - YCMOU, Graduated: December 2023, CGPA: 7.86
+
+## 🌱 Currently Learning
+- Meta React Native Course on Coursera
+- Exploring AI technologies like Perplexity, ChatGPT-4, and Gemini
+
+## 💼 Experience
+- **Freelance React Native Mobile App Developer**
+  - May 2024 – Present
+  - Developed and maintained mobile applications using React Native, JavaScript, and TypeScript.
+  - Collaborated with clients to understand their requirements and deliver high-quality solutions.
+
+- **Security Guard**
+  - 2018 – May 2024
+  - Ensured the safety and security of premises and personnel.
+  - Conducted regular patrols and monitored surveillance systems.
+
+## 📈 GitHub Stats
+![Laxman's GitHub stats](https://github-readme-stats.vercel.app/api?username=laxmankondhalkar&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/laxmankondhalkar/)
+- [Email](mailto:your-email@example.com)
+
+## 🔗 Projects
+- [Project Name](link): Brief description of the project.
+- [Project Name](link): Brief description of the project.
+
+## 📝 Blog Posts
+- [Blog Post Title](link): Brief description of the blog post.
+- [Blog Post Title](link): Brief description of the blog post.
+
+## 🤝 Let's Connect
+Feel free to reach out if you want to collaborate on a project, need help with React Native, or just want to chat about technology and AI.
 
 - 👨‍💻 All of my projects are available at [Laxmank.in](Laxmank.in)
 
