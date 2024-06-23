@@ -18,13 +18,9 @@ I'm a passionate React Native developer with a Bachelor's degree in Computer App
 ## 💼 Experience
 - **Freelance React Native Mobile App Developer**
   - May 2024 – Present
-  - Developed and maintained mobile applications using React Native, JavaScript, and TypeScript.
-  - Collaborated with clients to understand their requirements and deliver high-quality solutions.
+  - Developing mobile applications using React Native, JavaScript, and TypeScript.
+  - Collaborated with clients to understand their requirements and deliver high-quality solutions as possible.
 
-- **Security Guard**
-  - 2018 – May 2024
-  - Ensured the safety and security of premises and personnel.
-  - Conducted regular patrols and monitored surveillance systems.
 
 ## 📈 GitHub Stats
 ![Laxman's GitHub stats](https://github-readme-stats.vercel.app/api?username=laxmankondhalkar&show_icons=true&theme=radical)
