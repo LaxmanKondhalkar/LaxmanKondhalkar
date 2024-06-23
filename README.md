@@ -31,7 +31,7 @@ I'm a passionate React Native developer with a Bachelor's degree in Computer App
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/laxmankondhalkar/)
-- [Email](mailto:your-email@example.com)
+- [Email](lkondhalkar@gmail.com)
 
 ## 🔗 Projects
 - [Pswdgen]([link](https://github.com/LaxmanKondhalkar/pswdgen)): PSWDGen is an Android app designed to help you generate strong,
