@@ -30,7 +30,7 @@ I'm a passionate React Native developer with a Bachelor's degree in Computer App
 - [Email](lkondhalkar@gmail.com)
 
 ## 🔗 Projects
-- [Pswdgen]([link](https://github.com/LaxmanKondhalkar/pswdgen)): PSWDGen is an Android app designed to help you generate strong,
+- [Pswdgen](https://github.com/LaxmanKondhalkar/pswdgen): PSWDGen is an Android app designed to help you generate strong,
  random passwords according to your preferences.
  Whether you need a simple password or a complex one with various character sets, PSWDGen has you covered.
 <!-- [Project Name](link): Brief description of the project. 
