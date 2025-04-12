@@ -42,7 +42,7 @@ I'm a passionate React Native developer with a Bachelor's degree in Computer App
 ## 🤝 Let's Connect
 Feel free to reach out if you want to collaborate on a project, need help with React Native, or just want to chat about technology and AI.
 
-- 👨‍💻 All of my projects are available at [Laxmank.dev](wwww.axmank.dev)
+- 👨‍💻 All of my projects are available at [Laxmank.dev](wwww.laxmank.dev)
 
 - 📝 I regularly write articles on [laxmank.dev/blog](www.laxmank.dev/blog)
 
